@@ -1,24 +1,29 @@
 .lesson {
-  width: 200px;
-  height: 100px;
+  background-color: #fffacd; /* Set background color to #fffacd */
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; /* Set font family */
 }
 
-.section-blue {
-background-color: blue; color: orange;
+/* Style for the fact-1 paragraph */
+#fact-1 {
+  font-weight: bolder; /* Make the text bold */
+}
+.fact-1 {
+  font-weight: bold; /* Make the text bold */
+}
+/* Style for the fact-2 paragraph */
+#fact-2 {
+  font-size: 24px; /* Set font size to 24 pixels */
 }
 
-.container {
-background-color: black;
+/* Style for the fact-3 paragraph */
+#fact-3 {
+  line-height: 50px; /* Set line height to 50 pixels */
 }
 
-#section-1 {
-  background-color: purple; color: yellow;
+section {
+  background-color: #fffacd; /* Set background color to #fffacd */
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; /* Set font family */
 }
-
-#section-6 {
-color: yellow;
+.title {
+  font-weight: bolder; /* Make the text bold */
 }
-
-#section-4 { color: white;}
-
-#section-5 { color: white;}
